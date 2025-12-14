@@ -4,7 +4,7 @@ This repository contains the official releases of **HungryBee POS** - a professi
 
 ## Latest Release
 
-**Version 1.0.1** (December 2024)
+**Version 1.0.1** (December 2025)
 
 ### Download
 - [HungryBee POS Setup 1.0.1.exe](./HungryBee%20POS%20Setup%201.0.1.exe)
@@ -35,4 +35,4 @@ The application includes an auto-update feature. Go to **Settings > Software Upd
 
 ---
 
-© 2024 HungryBee. All rights reserved.
+© 2025 HungryBee. All rights reserved.
