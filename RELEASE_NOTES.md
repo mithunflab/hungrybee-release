@@ -1,5 +1,18 @@
 # Release Notes
 
+## v1.0.2 (15 12 25)
+
+### 🆕 New Features
+- **Redesigned Landing Page**: Modern, pixel-perfect design.
+- **Improved Sidebar**: Auto-collapse on Billing page.
+- **Header Enhancements**: Dynamic width for tabs.
+
+### 🔧 Bug Fixes
+- Fixed "Page Not Found" on Netlify deployment.
+- Fixed Dashboard Graph date selection.
+
+---
+
 ## v1.0.1 (December 15, 2024)
 
 ### 🆕 New Features
