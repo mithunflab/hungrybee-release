@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: HungryBee-POS-Setup-1.0.1.exe
-    sha512: IM27SNP6K+qrHUYSYtmBmMCL9x7u2fiXP/9jpmSo5LEl2OcoihZxqGdM7DyBdjwXC5SXF8dTxahzqZR7CEVbEw==
-    size: 88099748
-path: HungryBee-POS-Setup-1.0.1.exe
-sha512: IM27SNP6K+qrHUYSYtmBmMCL9x7u2fiXP/9jpmSo5LEl2OcoihZxqGdM7DyBdjwXC5SXF8dTxahzqZR7CEVbEw==
-releaseDate: '2025-12-14T19:21:52.292Z'
+  - url: HungryBee-POS-Setup-1.0.2.exe
+    sha512: sUB1/jbIWRrcVUUqN61MeAoi+Zlsz1u+d8p1wq0dr3p3dNf0MF18Og4DcF8/dZCqGpKg5+bzzQV1r9sCS0O8ww==
+    size: 88097510
+path: HungryBee-POS-Setup-1.0.2.exe
+sha512: sUB1/jbIWRrcVUUqN61MeAoi+Zlsz1u+d8p1wq0dr3p3dNf0MF18Og4DcF8/dZCqGpKg5+bzzQV1r9sCS0O8ww==
+releaseDate: '2025-12-15T15:35:31.548Z'
