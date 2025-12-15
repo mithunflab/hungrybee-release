@@ -1,5 +1,13 @@
 # Release Notes
 
+## v1.0.3 (15 12 25)
+
+### 🆕 New Features
+- **Login Page**: Added Terms & Conditions and License links to the bottom right.
+- **Update System**: Improved update reliability.
+
+---
+
 ## v1.0.2 (15 12 25)
 
 ### 🆕 New Features
