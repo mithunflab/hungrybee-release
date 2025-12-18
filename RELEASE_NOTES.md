@@ -15,7 +15,28 @@
 
 ---
 
-## v1.0.1 (December 15, 2025)
+## v1.0.3 (December 15, 2025)
+
+### 🆕 New Features
+- **Login Page**: Added Terms & Conditions and License links to the bottom right.
+- **Update System**: Improved update reliability.
+
+---
+
+## v1.0.2 (December 15, 2025)
+
+### 🆕 New Features
+- **Redesigned Landing Page**: Modern, pixel-perfect design.
+- **Improved Sidebar**: Auto-collapse on Billing page.
+- **Header Enhancements**: Dynamic width for tabs.
+
+### 🔧 Bug Fixes
+- Fixed "Page Not Found" on Netlify deployment.
+- Fixed Dashboard Graph date selection.
+
+---
+
+## v1.0.1 (December 15, 2024)
 
 ### 🆕 New Features
 - **Software Update System**: Added auto-update functionality in Settings page
