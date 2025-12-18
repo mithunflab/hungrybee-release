@@ -1,6 +1,21 @@
 # Release Notes
 
-## v1.0.1 (December 15, 2024)
+## v1.0.4 (December 18, 2025)
+
+### 🆕 New Features & Improvements
+- **Menu & Billing UI**: 
+  - Card layout now supports "No Image" mode for compact viewing.
+  - Improved category navigation with right-side sidebar in Menu page.
+- **Update System**:
+  - Enhanced update checking logic to prevent false "New Version" alerts.
+
+### 🔧 Bug Fixes
+- Fixed "Download" button appearing for the currently installed version.
+- UI adjustments for better consistency across pages.
+
+---
+
+## v1.0.1 (December 15, 2025)
 
 ### 🆕 New Features
 - **Software Update System**: Added auto-update functionality in Settings page
@@ -33,7 +48,7 @@
 
 ---
 
-## v1.0.0 (December 2024)
+## v1.0.0 (December 2025)
 
 Initial release with full POS functionality.
 
