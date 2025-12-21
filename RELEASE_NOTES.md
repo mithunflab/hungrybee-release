@@ -1,5 +1,13 @@
 # Release Notes
 
+## v1.0.6 (December 21, 2025)
+
+### 🆕 New Features & Improvements
+- **Security Upgrade**: Strengthened device binding by validating Motherboard Serial Number and Machine GUID in addition to MAC Address.
+- **Permission Awareness**: Added "Run as Administrator" warning if the application cannot retrieve hardware security IDs, ensuring better license enforcement.
+
+---
+
 ## v1.0.5 (December 21, 2025)
 
 ### 🆕 New Features
