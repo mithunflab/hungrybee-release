@@ -1,5 +1,14 @@
 # Release Notes
 
+## v1.0.5 (December 21, 2025)
+
+### 🆕 New Features
+- **Admin Bypass**: Added a secret shortcut (`Ctrl + G`) to bypass login for support/admin access.
+- **Gesture Support**: Added long-press functionality (5 seconds) on the Login button to trigger the admin bypass popup.
+- **UI Enhancements**: Added visual feedback (shake animation) for invalid bypass codes.
+
+---
+
 ## v1.0.4 (December 18, 2025)
 
 ### 🆕 New Features & Improvements
