@@ -1,5 +1,30 @@
 # Release Notes
 
+## v1.0.8 (December 22, 2025)
+
+### 🆕 New Features & Improvements
+- **Tables Page - Drag & Drop**:
+  - Fixed drag-and-drop for assigning waiting orders to tables.
+  - Fixed table-to-sidebar unassignment drag.
+  - Item count now displayed on Temp Bar waiting order icons.
+  - Click-to-assign workflow with proper visual selection feedback.
+
+- **Inventory Restocking Popup**:
+  - Split "Purchase Cost" into side-by-side: Cost/Unit and Total Amount.
+  - Dynamic calculation: Enter amount to auto-calculate quantity and vice versa.
+  - Fixed decimal precision display (max 2 decimal places).
+
+- **Star Customer Topup**:
+  - Added payment mode buttons: **Cash**, **Card**, **UPI/Scan**.
+  - Payment mode is now required for balance top-ups.
+  - Transaction history shows payment method badges (color-coded).
+
+### 🔧 Bug Fixes
+- Fixed `updateOrder` API not updating `table_id` parameter.
+- Fixed floating-point precision display in inventory (e.g., 236.52999... → 236.53).
+
+---
+
 ## v1.0.7 (December 22, 2025)
 
 ### 🆕 New Features & Improvements
