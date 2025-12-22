@@ -1,5 +1,19 @@
 # Release Notes
 
+## v1.0.7 (December 22, 2025)
+
+### 🆕 New Features & Improvements
+- **Star Customers Redesign**: 
+  - Revamped UI with Dashboard-style colored stats cards (Green, Blue, Rose, Orange).
+  - Modern Blue-Green (Teal) accents for buttons and controls.
+  - Improved "Row View" with Pagination for better performance.
+  - Added "Skeleton Loader" for smoother transitions.
+- **Update System**:
+  - Fixed "Download Update" button logic to only appear for strictly newer versions.
+  - Better "Up to date" status messaging.
+
+---
+
 ## v1.0.6 (December 21, 2025)
 
 ### 🆕 New Features & Improvements
