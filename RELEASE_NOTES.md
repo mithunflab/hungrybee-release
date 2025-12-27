@@ -1,5 +1,21 @@
 # Release Notes
 
+## v1.0.9 (December 26, 2025)
+
+### 🆕 New Features & Improvements
+- **Online Order Reliability**:
+  - Implemented network timeout handling for public menu loading.
+  - Added "Retry" mechanism for failed menu loads.
+  - Improved error validation to prevent infinite loading states.
+- **Legal Compliance**:
+  - Updated Terms & Conditions and License links to point to [https://hungrybee.cloud](https://hungrybee.cloud).
+
+### 🔧 Bug Fixes
+- Fixed potential script errors in public menu by sanitizing injected variables.
+- Resolved build errors related to TypeScript definitions.
+
+---
+
 ## v1.0.8 (December 22, 2025)
 
 ### 🆕 New Features & Improvements
