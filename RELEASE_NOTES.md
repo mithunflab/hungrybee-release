@@ -1,5 +1,24 @@
 # Release Notes
 
+## v1.0.10 (December 28, 2025)
+
+### 🆕 New Features & Improvements
+- **Public Menu UI Overhaul (Mobile Order)**:
+  - **New "Slide to Order" Cart Bar**: Replaced static buttons with a sleek, black sliding bottom bar for a premium experience.
+  - **Swipe Logic**: Slide the cart bar to the right to order instantly. Tap to view cart details.
+  - **Enhanced Aesthetics**: Improved visuals with customized icons, badges, and smoother animations.
+- **Security Enhancements**:
+  - **Security Advisor Popup**: Improved logic to direct users when a table conflict occurs.
+  - **Detailed Logging**: Unauthorized table access attempts are now robustly logged to the "Security Logs" in Admin POS, capturing table owner details and intruder info.
+- **Refined Login Page**:
+  - Fixed legal footer links to correctly point to specific Terms and License pages.
+
+### 🔧 Bug Fixes
+- Fixed "Order Conflict" logging issue where incidents were not appearing in the POS backend.
+- Fixed UI responsiveness for the floating cart bar on mobile devices.
+
+---
+
 ## v1.0.9 (December 26, 2025)
 
 ### 🆕 New Features & Improvements
